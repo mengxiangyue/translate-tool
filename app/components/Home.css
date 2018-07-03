@@ -1,0 +1,45 @@
+.input_container {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.input_textarea {
+  width: 100%;
+  font-size: 1.12em;
+}
+
+.control_container {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.language_control_container {
+  display: inline-block;
+}
+
+.language_label {
+  font-size: 18px;
+  /* color: rgb(47, 47, 255); */
+}
+
+.exchange_language_button {
+  font-size: 15px;
+  margin-left: 8px;
+  margin-right: 8px;
+  /* background-color: white; */
+  border-radius: 3px;
+  border: none;
+}
+
+.translate_button_container {
+  display: inline-block;
+}
+
+.translate_language_button {
+  font-size: 15px;
+  margin-left: 8px;
+  margin-right: 8px;
+  /* background-color: white; */
+  border-radius: 3px;
+  border: none;
+}
