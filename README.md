@@ -1,6 +1,17 @@
-# electron-react-boilerplate
+# Translation Assistant!
 
-### A Boilerplate for Scalable Cross-Platform Desktop Apps
+### 支持使用多个API翻译句子，支持中英文互译。
+
+## 截图
+![例子](https://raw.githubusercontent.com/mengxiangyue/translate-tool/0ce3f3ecfadafc28ee02a528fcd37f7296a80d33/snapshot/1.jpg)
+
+## 使用方法
+#### 1. 按照下面代码运行程序
+#### 2. 进入配置界面，配置相关的key（key需要自己去申请）
+
+
+-------
+## 以下内容为原来仓库[https://github.com/chentsulin/electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)的介绍
 
 <br/>
 
