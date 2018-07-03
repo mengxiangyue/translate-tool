@@ -11,7 +11,7 @@
 
 
 -------
-## 以下内容为原来仓库[https://github.com/chentsulin/electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)的介绍
+## 以下内容为原来仓库[electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)的介绍
 
 <br/>
 
